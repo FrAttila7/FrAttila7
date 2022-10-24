@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FrAttila7
-- 👀 I’m interested in IT, Video editing and Video games
+- 👀 I’m interested in IT, Video editing
 - 🌱 I’m currently learning IT system operation
 
 <!---
